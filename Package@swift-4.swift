@@ -8,7 +8,7 @@ let package = Package(
         .executable(name: "SwiftyCurlExample", targets: ["SwiftyCurlExample"])
     ],
     dependencies: [
-        .package(url: "https://github.com/krugazor/CCurl.git", .upToNextMajor(from: "0.2.0"))
+        .package(url: "https://github.com/krugazor/zCCurl.git", .upToNextMajor(from: "0.2.0"))
     ],
     targets: [
         .target(
