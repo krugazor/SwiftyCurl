@@ -5,7 +5,7 @@
 //  Created by Damian Malarczyk on 13.07.2016.
 //
 //
-import CCurl
+import dmcykCCurl
 import Foundation
 /**
  * Swift wrapper for curl_getinfo options

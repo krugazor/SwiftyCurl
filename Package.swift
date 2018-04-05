@@ -15,7 +15,7 @@ let package = Package(
 	
     ],
     dependencies: [
-        .Package(url: "https://github.com/dmcyk/CCurl.git", majorVersion: 0, minor: 1)
+        .Package(url: "https://github.com/krugazor/CCurl.git", majorVersion: 0, minor: 1)
     ],
     exclude: [
         "SwiftyCurlExample"

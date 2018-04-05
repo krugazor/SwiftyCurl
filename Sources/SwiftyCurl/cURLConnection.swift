@@ -10,7 +10,7 @@
 #else
     @_exported import Darwin.C
 #endif
-import CCurl
+import dmcykCCurl
 import Foundation
 
 /**

@@ -8,7 +8,7 @@
 
 import SwiftyCurl
 import Foundation
-import CCurl
+import dmcykCCurl
 
 ///// SwiftyCurl
 
